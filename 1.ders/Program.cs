@@ -48,6 +48,7 @@ namespace ders1
             Console.WriteLine("fiyat: " + totalsiparisprice);
             int total1price = totallimonataprice + totalsiparisprice + totalhamburgerprice;
             Console.WriteLine("net ücret: "+ total1price);
+            Console.WriteLine("***********************************************************************************");
             #endregion
 
             #region Double değişkenler

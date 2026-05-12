@@ -1,0 +1,7 @@
+S:\Projeler\C#_Dersleri\C_Sharp_Dersleri\1.ders\bin\Debug\ders1.exe.config
+S:\Projeler\C#_Dersleri\C_Sharp_Dersleri\1.ders\bin\Debug\ders1.exe
+S:\Projeler\C#_Dersleri\C_Sharp_Dersleri\1.ders\bin\Debug\ders1.pdb
+S:\Projeler\C#_Dersleri\C_Sharp_Dersleri\1.ders\obj\Debug\1.ders int double string değişkenler.csproj.AssemblyReference.cache
+S:\Projeler\C#_Dersleri\C_Sharp_Dersleri\1.ders\obj\Debug\1.ders int double string değişkenler.csproj.CoreCompileInputs.cache
+S:\Projeler\C#_Dersleri\C_Sharp_Dersleri\1.ders\obj\Debug\ders1.exe
+S:\Projeler\C#_Dersleri\C_Sharp_Dersleri\1.ders\obj\Debug\ders1.pdb
