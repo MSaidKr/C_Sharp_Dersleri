@@ -1,0 +1,13 @@
+<Solution>
+  <Project Path="0.ders kitaptan ilerlemeler/0.ders kitaptan ilerlemeler.csproj" Id="b486e2d9-78a7-4e64-9920-7a7ecbfd5fee" />
+  <Project Path="1.ders/1.ders int double string değişkenler.csproj" Id="cba90d8d-3481-48e9-a075-c82d22b5bba1" />
+  <Project Path="2.ders klavyeden veri girisleri/2.ders klavyeden veri girisleri.csproj" Id="f0f301c2-c396-419b-bbce-f2f6320ce87c" />
+  <Project Path="3.ders if else switch case/3.ders if else switch case.csproj" Id="daf46351-6935-4783-a2cc-1cf6ec9de6db" />
+  <Project Path="3.ders mod işlemleri/3.ders mod işlemleri.csproj" Id="72f629c7-26b2-48fa-8643-6e6748cde3da" />
+  <Project Path="4.ders Loops/4.ders Loops.csproj" Id="baa74df4-5c15-4ee1-8830-b4deda8583a7" />
+  <Project Path="5.ders yıldız uygulamaları/5.ders yıldız uygulamaları.csproj" Id="639eee39-f253-473c-80d7-d36f7fbff721" />
+  <Project Path="6.ders diziler/6.ders diziler.csproj" Id="d18cd53d-a59f-4677-bf0a-a82edb5159d8" />
+  <Project Path="7.ders foreach dögüsü/7.ders foreach dögüsü.csproj" Id="586ed8ab-e12d-41b2-9d6e-f293bfe47eab" />
+  <Project Path="8.ders metodlar/8.ders metotlar.csproj" Id="8a62cc06-feb3-47ea-845b-4bffa7f98546" />
+  <Project Path="9.ders sql/9.ders sql.csproj" Id="b07b7fa3-4bf4-4f27-b642-5a54ec03ff36" />
+</Solution>

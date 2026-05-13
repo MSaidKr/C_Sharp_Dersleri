@@ -1,0 +1,2 @@
+S:\Projeler\C#_Dersleri\C_Sharp_Dersleri\0.ders kitaptan ilerlemeler\obj\Debug\0.ders kitaptan ilerlemeler.csproj.AssemblyReference.cache
+S:\Projeler\C#_Dersleri\C_Sharp_Dersleri\0.ders kitaptan ilerlemeler\obj\Debug\0.ders kitaptan ilerlemeler.csproj.CoreCompileInputs.cache
